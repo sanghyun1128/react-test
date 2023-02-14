@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sanghyun1128/react-test.git/static/css/main.f98899fc.css",
+    "main.js": "/sanghyun1128/react-test.git/static/js/main.8e6b71e2.js",
+    "static/js/787.b99ecbe7.chunk.js": "/sanghyun1128/react-test.git/static/js/787.b99ecbe7.chunk.js",
+    "index.html": "/sanghyun1128/react-test.git/index.html",
+    "main.f98899fc.css.map": "/sanghyun1128/react-test.git/static/css/main.f98899fc.css.map",
+    "main.8e6b71e2.js.map": "/sanghyun1128/react-test.git/static/js/main.8e6b71e2.js.map",
+    "787.b99ecbe7.chunk.js.map": "/sanghyun1128/react-test.git/static/js/787.b99ecbe7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f98899fc.css",
+    "static/js/main.8e6b71e2.js"
+  ]
+}
